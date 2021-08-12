@@ -11,7 +11,10 @@
 
   <name>UserManagementSystem Maven Webapp</name>
   <description>Root project</description>
-  <modules></modules>
+  <modules>
+    <module>UMSCommon</module>
+    <module>UMSWebParent</module>
+  </modules>
 
 
 </project>

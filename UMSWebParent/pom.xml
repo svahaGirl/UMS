@@ -21,8 +21,8 @@
     </properties>
 
     <modules>
-        <module>ShopBackEnd</module>
-        <module>ShopFrontEnd</module>
+        <module>UMSBackEnd</module>
+        <module>UMSFrontEnd</module>
     </modules>
 
     <dependencies>
