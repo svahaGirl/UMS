@@ -1,4 +1,4 @@
-package com.shop.admin;
+package package org.perscholas.umsbackend.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
