@@ -1,4 +1,4 @@
-package com.shop.admin.user;
+package org.perscholas.umsbackend.admin.user;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
